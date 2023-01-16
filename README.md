@@ -2,5 +2,5 @@
 백준 문제풀이 저장소
 프로그래머스 문제풀이 저장소
 
-Python3 
-SQL (Oracle)
+Algorithm - Python3 
+SQL - Oracle
